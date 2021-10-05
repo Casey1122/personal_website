@@ -75,6 +75,7 @@ nav {
     justify-content: space-between;
     height: 6vh;
     align-items: center;
+    align-content: center;
     background:rgb(208, 208, 208);
     position: relative;
     z-index: 100;
@@ -82,6 +83,7 @@ nav {
 
 .logo {
     cursor: pointer;
+    margin: auto 0;
 }
 
 .nav-links {
