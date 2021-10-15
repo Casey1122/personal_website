@@ -342,6 +342,16 @@ nav {
   } */
 }
 
+@media screen and (max-width: 2180px) and (min-width: 1920px) {
+  .work-grid-container {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  /* .my-work {
+      background: green;
+    } */
+}
+
 .work-icon {
   width: 60%;
   margin: 20px auto;
