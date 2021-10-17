@@ -364,7 +364,8 @@ nav {
 }
 
 .card {
-  background: white;
+  /* background: white; */
+  background-image: url("./img/paper_texture.jpg");
   border-radius: 10px;
   display: flex;
   flex-direction: column;
